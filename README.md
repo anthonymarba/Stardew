@@ -1,0 +1,2 @@
+# Stardew
+projeto agrinho 
