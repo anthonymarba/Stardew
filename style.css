@@ -4,3 +4,8 @@
 html {
         background-image: url(/wallpaperfoda.png);
 }
+.Titulo {
+    
+        text-align: center;
+        font-style: oblique;
+    }
