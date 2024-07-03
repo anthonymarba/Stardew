@@ -36,5 +36,6 @@ a {
         color: azure;
 }
 footer {
-        background-color: black
-}
+        background-color: black;
+        height: 100px;
+;}
