@@ -46,4 +46,6 @@ footer {
 ;}
 button {
         background-color: blue;
+        margin-top: auto;
+        margin-bottom: auto;
 }
