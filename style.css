@@ -3,7 +3,11 @@
 }
 html {
         background-image: url(/wallpaperfoda.png);
-        margin: 0;
+        margin: 0px;
+}
+
+body{
+        margin: 0px;
 }
 .Titulo {
     
